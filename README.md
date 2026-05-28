@@ -1,16 +1,23 @@
-## Hi there 👋
+Привіт, я Анастасія 👋 
 
-<!--
-**Anastasiia-designer/Anastasiia-designer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Створюю сучасні та функціональні сайти для бізнесу з акцентом на естетику, структуру та зручність для користувача
 
-Here are some ideas to get you started:
+Tilda • Weblium • Webflow • Figma • UI/UX Designer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Створюю:
+— стильні landing pages
+— сучасні UI/UX рішення
+— адаптивний дизайн
+— естетичні та продаючі сайти
+
+📫 Відкрита до співпраці та нових проєктів
+ Зв'язатися зі мною: 
+ @anastasiia_76 
+ https://www.instagram.com/anastasiia_webcreator/
+
+✨ Мої роботи ✨
+
+1. Сайт студії пілатесу. Сучасний мінімалізм із акцентом на естетику wellness / Pilates / luxury self-care.
+
+Посилання: https://anastasiia-designer.github.io/gracepilates/
+
