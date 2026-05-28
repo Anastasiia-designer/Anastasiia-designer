@@ -4,13 +4,16 @@
 
 Tilda • Weblium • Webflow • Figma • UI/UX Designer 
 
-💻 Створюю:
+💻 Спеціалізація:
+
 • стильні landing pages • сучасні UI/UX рішення • адаптивний дизайн • естетичні та продаючі сайти
 
 📫 Відкрита до співпраці та нових проєктів
+ 
  Зв'язатися зі мною: 
 
  Телеграм @anastasiia_76 
+
  Інстаграм https://www.instagram.com/anastasiia_webcreator/
 
 ✨ Мої роботи ✨
