@@ -12,7 +12,7 @@ Tilda • Weblium • Webflow • Figma • UI/UX Designer
 
 📫 Відкрита до співпраці та нових проєктів
  Зв'язатися зі мною: 
- @anastasiia_76 
+ Телеграм @anastasiia_76 
  https://www.instagram.com/anastasiia_webcreator/
 
 ✨ Мої роботи ✨
