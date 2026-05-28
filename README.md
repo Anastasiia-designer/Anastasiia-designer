@@ -22,9 +22,3 @@ Tilda • Weblium • Webflow • Figma • UI/UX Designer
 
  Інстаграм https://www.instagram.com/anastasiia_webcreator/
 
-✨ Мої роботи ✨
-
-1. Сайт студії пілатесу. Сучасний мінімалізм із акцентом на естетику wellness / Pilates / luxury self-care.
-
-Посилання: https://anastasiia-designer.github.io/gracepilates/
-
